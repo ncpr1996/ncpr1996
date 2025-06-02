@@ -143,7 +143,8 @@
 
 ## 📫 Connect with Me
 
-<table width="100%">
+<div align="center">
+<table>
 <tr>
 <td align="center" width="33%">
   <a href="https://www.linkedin.com/in/chandra-prakash-reddy/" target="_blank">
@@ -168,6 +169,7 @@
 </td>
 </tr>
 </table>
+</div>
 
 ---
 
