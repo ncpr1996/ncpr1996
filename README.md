@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Chandra Prakash Reddy</h1>
+<h1 align="center">Hi Everyone 👋, I'm Chandra Prakash Reddy</h1>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=DevOps+Engineer;Cloud+Infrastructure+Specialist;Automation+Enthusiast;CI%2FCD+Pipeline+Expert;Always+Learning+New+Technologies" alt="Typing SVG" />
@@ -24,10 +24,13 @@
   <img src="https://img.shields.io/github/stars/ncpr1996?style=for-the-badge&color=yellow" alt="GitHub Stars" />
 </p>
 
+---
 
 ## 🛠️ DevOps Tech Stack & Tools
 
-<div align="center">
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
 ### ☁️ Cloud Platforms
 <p>
@@ -61,6 +64,9 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 </p>
+
+</td>
+<td width="50%" valign="top">
 
 ### 🏗️ Infrastructure as Code (IaC)
 <p>
@@ -101,65 +107,96 @@
   <img src="https://img.shields.io/badge/AWS_CloudWatch-FF9900?style=for-the-badge&logo=amazon-cloudwatch&logoColor=white" />
 </p>
 
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
 ## 📊 GitHub Analytics & Performance
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ncpr1996&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ncpr1996&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
-</div>
-
-<div align="center">
+<table width="100%">
+<tr>
+<td width="50%" align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=ncpr1996&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff"/>
+</td>
+<td width="50%" align="right">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ncpr1996&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" alt="GitHub Streak" />
-</div>
+</td>
+</tr>
+</table>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ncpr1996&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9" alt="Contribution Graph" />
-</div>
+<table width="100%">
+<tr>
+<td width="50%" align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=ncpr1996&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=3&row=2" />
+</td>
+<td width="50%" align="right">
+  <img width="100%" src="https://github-contributor-stats.vercel.app/api?username=ncpr1996&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
+</td>
+</tr>
+</table>
 
----
-
-## 🏆 GitHub Achievements & Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ncpr1996&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" />
-</div>
-
----
-
-## 📈 Repository Analytics
-
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=ncpr1996&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
-</div>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ncpr1996&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9" alt="Contribution Graph" />
 
 ---
 
 ## 📫 Connect with Me
 
-<div align="center">
+<table width="100%">
+<tr>
+<td align="center" width="33%">
   <a href="https://www.linkedin.com/in/chandra-prakash-reddy/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <br>
+  <sub><b>Professional Network</b></sub>
+</td>
+<td align="center" width="33%">
   <a href="mailto:ncpr.0912@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <br>
+  <sub><b>Direct Contact</b></sub>
+</td>
+<td align="center" width="33%">
   <a href="https://devopstour.hashnode.dev/" target="_blank">
     <img src="https://img.shields.io/badge/Blog-FFA500?style=for-the-badge&logo=rss&logoColor=white" />
   </a>
-</div>
+  <br>
+  <sub><b>Technical Blog</b></sub>
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🎯 Professional Goals
 
-- 🚀 **Innovation:** Implementing cutting-edge DevOps practices and tools
-- 🤝 **Collaboration:** Building efficient teams and processes
-- 📚 **Learning:** Staying updated with cloud-native technologies
-- 🌟 **Mentorship:** Sharing DevOps knowledge and best practices
+<table width="100%">
+<tr>
+<td align="center" width="25%">
+  🚀<br>
+  <b>Innovation</b><br>
+  <sub>Implementing cutting-edge DevOps practices and tools</sub>
+</td>
+<td align="center" width="25%">
+  🤝<br>
+  <b>Collaboration</b><br>
+  <sub>Building efficient teams and processes</sub>
+</td>
+<td align="center" width="25%">
+  📚<br>
+  <b>Learning</b><br>
+  <sub>Staying updated with cloud-native technologies</sub>
+</td>
+<td align="center" width="25%">
+  🌟<br>
+  <b>Mentorship</b><br>
+  <sub>Sharing DevOps knowledge and best practices</sub>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -170,10 +207,3 @@
 <div align="center">
   <sub>⭐ From <a href="https://github.com/ncpr1996">Chandra Prakash Reddy</a> | Last updated: June 2025</sub>
 </div>
-
-
-
-
-
-
-
